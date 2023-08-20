@@ -1,0 +1,24 @@
+Roteiro da Atividade 4 (18/08)
+
+Olá pessoal!
+Essa atividade é livre, ou seja, vocês podem escolher o tema que querem trabalhar, é algo parecido com o que foi feito com os lanches do Burger King.
+Qualquer dúvida o pessoal da turma B já fez a mesma atividade, alguns alunos de lá poderão ajudar! Chamem o Zé!
+Abraço galera!
+
+----------------------------------------------------------
+
+1. Criar uma pasta para o Projeto;
+
+2. Criar uma pasta 'img' dentro do Projeto;
+
+3. Adicionar 12 imagens;
+
+4. Criar um arquivo 'produtos.json' no projeto, editar os produtos existentes e adicionar mais 10 produtos;
+
+5. Criar um arquivo 'index.html' e adicionar o código;
+
+6. Criar um arquivo 'script.js' e adicionar o código;
+
+7. Adicionar o arquivo 'estilo.css' ao projeto;
+
+7. Executar o arquivo 'index.html' usando o LiveServer.

@@ -1,0 +1,84 @@
+{
+    "carros": [
+        {
+            "id": 1,
+            "nome": "Ferrari 812",
+            "preco": "R$ 6.490.200",
+            "peso": "Peso: 1.525 Kg",
+            "potencia":"Velocide: 340 km/h",
+            "criacao":"Lançamento: 2017",
+            "consumo":"Consumo: 14.9 L/100 Km ",
+            "imagem": "\\img\\1.png"
+        },
+        {
+            "id": 2,
+            "nome": "Ferrari 458 Italia",
+            "preco": "R$ 2.880.619",
+            "peso": "Peso: 1.290 Kg",
+            "potencia":"Velocide: 325 km / h",
+            "criacao":"Lançamento: 2009",
+            "consumo":"Consumo: 13.3 L/100 Km ",
+            "imagem": "\\img\\2.png"
+        },
+        {
+            "id": 3,
+            "nome": "Ferrari California",
+            "preco": "R$ 2.059.708",
+            "peso": "Peso: 1.735 Kg",
+            "potencia":"Velocide: 310 km/h",
+            "criacao":"Lançamento: 2008",
+            "consumo":"Consumo: 13.1 L/100 Km",
+            "imagem": "\\img\\3.png"
+        },
+        {
+            "id": 4,
+            "nome": "Ferrari 360 Spider",
+            "preco": "R$ 552.120",
+            "peso": "Peso: 1.460 Kg",
+            "potencia":"Velocide: 290 km/h",
+            "criacao":"Lançamento: 2000",
+            "consumo":"Consumo: 17.9 L/100 Km",
+            "imagem": "\\img\\4.png"
+        },
+        {
+            "id": 5,
+            "nome": "Ferrari Portofino",
+            "preco": "R$ 3.650.000",
+            "peso": "Peso: 1.672 Kg",
+            "potencia":"Velocide: 320 km/h",
+            "criacao":"Lançamento: 2021",
+            "consumo":"Consumo: 11.3 L/100 Km ",
+            "imagem": "\\img\\5.png"
+        },
+        {
+            "id": 6,
+            "nome": "Ferrari Purosangue.",
+            "preco": "R$ 6.000.000",
+            "peso": "Peso: 2.033 Kg",
+            "potencia":"Velocide: 310 km/h",
+            "criacao":"Lançamento: 2023",
+            "consumo":"Consumo: 18.9 L/100 Km ",
+            "imagem": "\\img\\6.png"
+        },
+        {
+            "id": 7,
+            "nome": "Ferrari Enzo",
+            "preco": "R$ 27.060.000",
+            "peso": "Peso: 1.365 Kg",
+            "potencia":"Velocide: 330 km/h",
+            "criacao":"Lançamento: 2002",
+            "consumo":"Consumo: 16.9 L/100 Km ",
+            "imagem": "\\img\\7.png"
+        },
+        {
+            "id": 8,
+            "nome": "Ferrari Roma",
+            "preco": "R$ 3.400.000",
+            "peso": "Peso: 1.472 Kg",
+            "potencia":"Velocide: 320 km/h",
+            "criacao":"Lançamento: 2020",
+            "consumo":"Consumo: 10.7 L/100 Km ",
+            "imagem": "\\img\\8.png"
+        }
+    ]
+}
